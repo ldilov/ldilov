@@ -25,8 +25,8 @@ I'm interested in web technologies and AI.
 <a href="https://https://www.linkedin.com/in/ldilov02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ldilov02" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/392072151567564801" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Winch3ster" height="30" width="40" /></a>
 <a href=live:.cid.bfc969f2689eb62e" target="blank"><img align="center" src="https://www.svgrepo.com/show/242377/skype.svg" alt="Lazar Dilov" height="30" width="40" /></a>
+<a href=mailto:ldilov@proton.me" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Protonmail_logo.svg" alt="Lazar Dilov" height="30" width="80" /></a>
 </p>
-
 <div align="center">
 
 ## :computer: Technologies and Tools that I know
